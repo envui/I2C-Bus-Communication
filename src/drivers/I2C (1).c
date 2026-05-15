@@ -4,7 +4,6 @@
 // using PA6 (SCL) and PA7 (SDA). Includes single and burst read/write operations
 // with timeout and error detection for use with the TCS34725, MPU6050,
 // and PCF8574T LCD backpack slave devices.
-// Author: Rodrigo Can, Juan Miguel Constantino, Matthew Margulies, Kyle Leng
 // May 4, 2026
 
 
