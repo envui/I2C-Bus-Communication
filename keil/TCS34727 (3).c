@@ -4,7 +4,6 @@
 // 0x29. Includes initialization with ID verification, raw 16-bit RGBC
 // channel reading, clear-channel normalized RGB scaling, and dominant
 // color detection returning RED, GREEN, BLUE, or NOTHING.
-// Author: Rodrigo Can, Juan Miguel Constantino, Matthew Margulies, Kyle Leng
 // May 13, 2026
 
 #include <stdint.h>
