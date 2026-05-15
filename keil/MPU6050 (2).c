@@ -5,7 +5,6 @@
 // reading, and angle estimation using a complementary filter (98% gyro,
 // 2% accelerometer) for smooth roll, pitch, and yaw tracking. Servo
 // angle output is derived from pitch and clamped to -90 to +90 degrees.
-// Author: Rodrigo Can, Juan Miguel Constantino, Matthew Margulies, Kyle Leng
 // May 13, 2026
 
 #include <stdint.h>
