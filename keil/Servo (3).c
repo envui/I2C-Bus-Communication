@@ -4,7 +4,6 @@
 // Servo_Init() configures the PWM clock divider and generator for a 20ms
 // period. Servo_SetAngle() maps an angle (-90 to +90 degrees) to the
 // corresponding pulse width (0.5ms to 2.5ms) and updates the compare register.
-// Author: Rodrigo Can, Juan Miguel Constantino, Matthew Margulies, Kyle Leng
 // May 13, 2026
 
 #include <stdint.h>
