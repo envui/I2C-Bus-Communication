@@ -4,7 +4,6 @@
 // address 0x27 using 4-bit mode. Includes initialization, cursor
 // positioning, character and string output, integer printing, and a
 // startup message sequence displaying first and last name on each row.
-// Author: Rodrigo Can, Juan Miguel Constantino, Matthew Margulies, Kyle Leng
 // May 13, 2026
 
 #include <stdint.h>
