@@ -4,7 +4,6 @@
 // configuration constants, MCS command and status bits, and declares all
 // I2C communication functions including single and burst read/write
 // operations and error handling for use with I2C slave devices.
-// Author: Rodrigo Can, Juan Miguel Constantino, Matthew Margulies, Kyle Leng
 // May 4, 2026
 
 
