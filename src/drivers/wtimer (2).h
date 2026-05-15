@@ -3,7 +3,6 @@
 // Header file for wtimer.c. Defines WTIMER1 configuration constants and
 // declares millisecond timing, delay, elapsed time checking, and linear
 // range mapping functions for use across all project modules.
-// Author: Rodrigo Can, Juan Miguel Constantino, Matthew Margulies, Kyle Leng
 // May 4, 2026
 
 
