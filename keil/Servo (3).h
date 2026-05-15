@@ -4,7 +4,6 @@
 // control on PB7 (M0PWM1) using a 16 MHz clock divided by 64. Maps servo
 // angles (-90 to +90 degrees) to pulse width counts (125 to 625) over
 // a 5000-count period, and declares all servo control functions.
-// Author: Rodrigo Can, Juan Miguel Constantino, Matthew Margulies, Kyle Leng
 // May 13, 2026
 
 #ifndef SERVO_H_
