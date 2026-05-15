@@ -3,7 +3,7 @@
 // Header file for ButtonLED.c. Defines pin masks for the onboard RGB LEDs
 // (PF1-PF3) and push buttons SW1 (PF4) and SW2 (PF0), and declares all
 // LED and button interface functions.
-// Author: Rodrigo Can, Juan Miguel Constantino, Matthew Margulies, Kyle Leng
+
 // May 4, 2026
 
 
