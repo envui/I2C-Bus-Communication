@@ -3,7 +3,6 @@
 // Header file for LCD.c. Defines PCF8574T I2C backpack pin mappings,
 // LCD command constants for 4-bit mode operation, and declares all
 // display control and output functions for the 16x2 LCD at address 0x27.
-// Author: Rodrigo Can, Juan Miguel Constantino, Matthew Margulies, Kyle Leng
 // May 13, 2026
 
 #ifndef LCD_H_
