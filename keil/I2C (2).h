@@ -4,7 +4,6 @@
 // configuration constants, MCS command and status bits, and declares all
 // I2C communication functions including single and burst read/write
 // operations and error handling for use with I2C slave devices.
-// Author: Rodrigo
 
 #ifndef I2C_H_
 #define I2C_H_
