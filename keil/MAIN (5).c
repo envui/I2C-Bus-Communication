@@ -6,7 +6,6 @@
 // color detection with LED and LCD feedback, and MPU6050 IMU angle tracking
 // with complementary filter driving the servo in real-time.
 // Press SW1 to advance through each test. Press SW2 to cycle LED color.
-// Author: Rodrigo Can, Juan Miguel Constantino, Matthew Margulies, Kyle Leng
 // May 13, 2026
 
 #include <stdint.h>
