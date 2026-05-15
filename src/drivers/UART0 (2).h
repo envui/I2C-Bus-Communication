@@ -3,7 +3,6 @@
 // Header file for UART0.c. Defines ASCII control character constants and
 // declares all UART0 serial communication functions for PC terminal
 // debugging at 115200 baud on PA0 (RX) and PA1 (TX).
-// Author: Rodrigo Can, Juan Miguel Constantino, Matthew Margulies, Kyle Leng
 // May 4, 2026
 
 #ifndef UART0_H_
