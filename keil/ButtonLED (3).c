@@ -5,7 +5,6 @@
 // outputs for the RGB LED with cycling support. BTN_Init() configures
 // PF0 (SW2) and PF4 (SW1) as interrupt-driven inputs with pull-up resistors
 // and 50ms software debouncing via GPIOPortF_Handler().
-// Author: Rodrigo Can, Juan Miguel Constantino, Matthew Margulies, Kyle Leng
 // May 13, 2026
 
 #include <stdint.h>
