@@ -5,7 +5,6 @@
 // maintains a running millisecond counter and toggles PB1 at 1 Hz for
 // timing verification. Includes DELAY_1MS(), WTIMER_Millis(),
 // WTIMER_HasElapsed(), and a linear range map() utility.
-// Author: Rodrigo Can, Juan Miguel Constantino, Matthew Margulies, Kyle Leng
 // May 4, 2026
 
 
