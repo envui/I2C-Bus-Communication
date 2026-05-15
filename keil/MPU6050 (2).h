@@ -5,7 +5,6 @@
 // readings, calibrated values, and computed roll/pitch/yaw angles.
 // Declares all IMU driver functions including initialization, calibration,
 // data reading, angle update, and servo angle output.
-// Author: Rodrigo Can, Juan Miguel Constantino, Matthew Margulies, Kyle Leng
 // May 13, 2026
 
 #ifndef MPU6050_H_
