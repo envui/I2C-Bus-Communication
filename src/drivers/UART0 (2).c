@@ -4,7 +4,6 @@
 // PA0 (RX) and PA1 (TX). Includes character, string, signed/unsigned
 // integer, float, and hexadecimal output functions, along with string
 // input with backspace handling for PC terminal debugging.
-// Author: Rodrigo Can, Juan Miguel Constantino, Matthew Margulies, Kyle Leng
 // May 4, 2026
 
 
